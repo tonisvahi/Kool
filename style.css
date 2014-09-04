@@ -1,0 +1,49 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+#container
+{
+	background:url('gfx/body-bg.jpg');
+}
+header h1
+{
+	font: 34pt Myriad Pro;
+	color:#ff0000;
+	margin-left: 15px;
+	margin-top: 40px;
+}
+header h2
+{
+	font: 18pt Myriad Pro;
+	color:#787878;
+	margin-left: 15px;
+}
+#language
+{
+	float:right;
+	margin-right: 20px;
+	margin-top: -60px;
+	font: 11pt Myriad Pro;
+	font-variant: small-caps;
+}
+#language li
+{
+	display: inline-block;
+	font-variant: small-caps;
+	margin-right: 15px;
+}
+#language a
+{
+	text-decoration: none;
+	color:#787878;
+}
+#language a:hover
+{
+	color:#303132;
+}
+nav li
+{
+	display: inline-block;
+}
